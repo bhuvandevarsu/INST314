@@ -1,1 +1,1 @@
-# INST314
+This repository holds the results of my data collection and sharing efforts for the INST314: Statistics for Information Science course at the University of Maryland, College Park. I surveyed 10 people on 5 questions related to mental health in the modern day, and recorded their results in the dataset. This data incorporates the topic of statistics in psychology, which was learned in the course.
